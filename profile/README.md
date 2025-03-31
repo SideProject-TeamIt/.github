@@ -18,3 +18,4 @@
 ### 백엔드
 - <img src="https://img.shields.io/badge/Fastapi-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
 - <img src="https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=Mongodb&logoColor=white">
+- <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white">
